@@ -108,7 +108,7 @@ public class Calculator {
 	int mod(int first, int second) {
 		countForAnyCompution++;
 		localCount++;
-		return first%second;
+		return first%second ;
 	}
 
 	static int getCount() {
